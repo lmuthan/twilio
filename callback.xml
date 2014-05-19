@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <Response>
     <Say>A customer at the number is calling</Say>
-    <Dial>+914466348229</Dial>
+    <Dial>
+        <Number>+914466348229</Number>
+    </Dial>
 </Response>

@@ -1,4 +1,5 @@
+<?xml version="1.0"?>
 <Response>
-    <Say>A customer at the number +919790991878, +919600089146, 919677055121 ,+914466348229 is calling</Say>
+    <Say>A customer at the number is calling</Say>
     <Dial>+914466348229</Dial>
 </Response>

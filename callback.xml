@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Response>
-    <Say>A customer at the number is calling</Say>
-    <Dial>
-        <Number>+919600089146</Number>
-    </Dial>
-</Response>
